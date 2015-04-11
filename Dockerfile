@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.2
+FROM ubuntu
 
 MAINTAINER Daniel Romero <infoslack@gmail.com>
 
